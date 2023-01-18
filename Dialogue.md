@@ -59,3 +59,6 @@ Je vois que tu n'as pas encore tous les ingrédients, je vais te redonner la lis
 ```
 - Des Bananuages
 ```
+```
+Viens me revoir quand tu les auras ! Hésite pas non plus à venir me redemander la liste.
+```
