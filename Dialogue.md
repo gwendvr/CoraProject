@@ -48,7 +48,7 @@ Viens me revoir quand tu les auras ! Hésite pas non plus à venir me redemander
 Salut l'amie !
 ```
 ```
-Oublie pas touche pas à mon coffre regarde le seulement !
+Oublie pas, touche pas à mon coffre regarde le seulement !
 ```
 ```
 Je vois que tu n'as pas encore tous les ingrédients, je vais te redonner la liste :
@@ -74,8 +74,25 @@ Viens me revoir quand tu les auras ! Hésite pas non plus à venir me redemander
 Salut l'amie !
 ```
 ```
-Oublie pas touche pas à mon coffre regarde le seulement !
+Oublie pas, touche pas à mon coffre regarde le seulement !
 ```
 ```
 Je vois que tu as ramené tous les ingrédients
 ```
+```
+Tu vas pouvoir les distiller pour en faire un super cocktail !
+```
+```
+Va voir la distillerie là bas tu vas pouvoir me le créer.
+```
+
+### Essayer d'ouvrir le coffre sans accomplissement de la quête
+```
+Touche pas à mon coffre ! Tu as seulement l'honneur de le regarder.
+```
+
+### Mauvais choix de cocktail
+
+### Remise de la clé
+
+### Ouverture du coffre
