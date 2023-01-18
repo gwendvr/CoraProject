@@ -92,7 +92,16 @@ Touche pas à mon coffre ! Tu as seulement l'honneur de le regarder.
 ```
 
 ### Mauvais choix de cocktail
+```
+Quel est cette horreur ! Donne moi un cocktail digne de ma grandeur ! 
+```
 
 ### Remise de la clé
+```
+Tiens prend cette clé elle ouvre mon bébé, prend s'en soin !
+```
 
 ### Ouverture du coffre
+```
+Vous avez récupérer l'artéfact du PNJ Alcoolique !
+```
