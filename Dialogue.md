@@ -28,7 +28,7 @@ Mais si il n'y a pas de cocktail il n'y a pas de récompense, tu dois seulement 
 Pour la récompense il suffit d'abord de me ramener quelques fruit de la liste suivante :
 ```
 ```
-- Du cieutron
+- Du Cieutron
 ```
 ```
 - De l'Azumelons
@@ -46,6 +46,9 @@ Viens me revoir quand tu les auras ! Hésite pas non plus à venir me redemander
 ### Retour vers le PNJ SANS tous les fruits
 ```
 Salut l'amie !
+```
+```
+Oublie pas touche pas à mon coffre regarde le seulement !
 ```
 ```
 Je vois que tu n'as pas encore tous les ingrédients, je vais te redonner la liste :
@@ -69,6 +72,9 @@ Viens me revoir quand tu les auras ! Hésite pas non plus à venir me redemander
 ### Retour vers le PNJ AVEC tous les fruits
 ```
 Salut l'amie !
+```
+```
+Oublie pas touche pas à mon coffre regarde le seulement !
 ```
 ```
 Je vois que tu as ramené tous les ingrédients
