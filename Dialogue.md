@@ -98,7 +98,7 @@ Quel est cette horreur ! Donne moi un cocktail digne de ma grandeur !
 
 ### Remise de la clé
 ```
-Tiens prend cette clé elle ouvre mon bébé, prend s'en soin !
+Tiens prend cette clé elle ouvre mon bébé, prends en soin !
 ```
 
 ### Ouverture du coffre
