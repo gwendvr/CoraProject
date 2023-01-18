@@ -36,3 +36,6 @@ Il suffit simplement de me ramener quelques fruit de la liste suivante :
 ```
 - Des Bananuages
 ```
+```
+Viens me revoir quand tu les auras ! Hésite pas non plus à venir me redemander la liste.
+```
