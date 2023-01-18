@@ -22,7 +22,10 @@ J'ai oublié qu'il n'y a pas de BON alcool dans le coin, nous devons le faire no
 Bien-sûr tu auras une belle récompense en échange ! Je te donnerais la clé du coffre là bas, il y a mon plus grand trésor !
 ```
 ```
-Il suffit simplement de me ramener quelques fruit de la liste suivante :
+Mais si il n'y a pas de cocktail il n'y a pas de récompense, tu dois seulement regarder MON coffre ! Pour l'instant...
+```
+```
+Pour la récompense il suffit d'abord de me ramener quelques fruit de la liste suivante :
 ```
 ```
 - Du cieutron
@@ -40,7 +43,7 @@ Il suffit simplement de me ramener quelques fruit de la liste suivante :
 Viens me revoir quand tu les auras ! Hésite pas non plus à venir me redemander la liste.
 ```
 
-### Retour vers le PNJ sans tous les fruits
+### Retour vers le PNJ SANS tous les fruits
 ```
 Salut l'amie !
 ```
@@ -61,4 +64,12 @@ Je vois que tu n'as pas encore tous les ingrédients, je vais te redonner la lis
 ```
 ```
 Viens me revoir quand tu les auras ! Hésite pas non plus à venir me redemander la liste.
+```
+
+### Retour vers le PNJ AVEC tous les fruits
+```
+Salut l'amie !
+```
+```
+Je vois que tu as ramené tous les ingrédients
 ```
