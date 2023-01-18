@@ -39,3 +39,23 @@ Il suffit simplement de me ramener quelques fruit de la liste suivante :
 ```
 Viens me revoir quand tu les auras ! Hésite pas non plus à venir me redemander la liste.
 ```
+
+### Retour vers le PNJ sans tous les fruits
+```
+Salut l'amie !
+```
+```
+Je vois que tu n'as pas encore tous les ingrédients, je vais te redonner la liste :
+```
+```
+- Du cieutron
+```
+```
+- De l'Azumelons
+```
+```
+- Du Mangrume
+```
+```
+- Des Bananuages
+```
